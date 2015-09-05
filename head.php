@@ -1,3 +1,4 @@
 <head>
-    <title>Clase isil</title>
+    <title><?= $title ?></title>
+    <?php include './metas.php'; ?>
 </head>
