@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Clase isil</title>
-    </head>
+    <?php include './head.php'; ?>
     <body>
         Esto es el primer commit
     </body>
